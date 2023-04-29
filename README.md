@@ -8,7 +8,7 @@ In my company our release process we have a pain point of QA'ing PRs included in
 Create a helper script which automates creating a table used for QA purposes
 
 ## Dependencies
-This script uses [gh cli](https://cli.github.com/)
+This script uses [gh cli](https://cli.github.com/) and [jq](https://formulae.brew.sh/formula/jq)
 
 ## Table with Title Author & URL
 
